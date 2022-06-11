@@ -1,2 +1,3 @@
 # ezBadges
-Event badges react app 
+
+Generates badges for all guests in any kind of event.
